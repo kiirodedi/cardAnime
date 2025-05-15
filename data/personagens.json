@@ -10,6 +10,13 @@
         "id": 2,
         "imagem": "https://64.media.tumblr.com/e7fa243ea176d768a1eec077b8e97fe4/ad218bc4b198f6f2-6d/s1280x1920/a7443daf9e4e7e1baff8779e9ab6f47cc646527f.jpg",
         "nome": "Gojo Satoru",
-        "universo": "Jujutsu Kisen"
+        "universo": "Jujutsu Kaisen"
+    },
+
+    {
+        "id": 3,
+        "imagem": "https://i.pinimg.com/736x/47/7c/79/477c792186930dd428bf21602dccc2da.jpg",
+        "nome": "Edward Elric",
+        "universo": "Fullmetal Alchemist"
     }
 ]
