@@ -7,11 +7,10 @@ import personagens from "./data/personagens.json"
 
 export default function App() {
   return (
+    <ScrollView contentContainerStyle={styles.scrollContent}>
     <View style={styles.container}>
-      <View style={{ alignItems: 'center' }}>
-        <Text style={styles.titulo}>Card Anime</Text>
-        <ScrollView contentContainerStyle={styles.scrollContent}>
-          {personagens.map((personagem) => (
+        <Text style={styles.titulo}>Personagens de anime</Text>
+        {personagens.map((personagem) => (
           <CardAnime
             key={personagem.id}
             id={personagem.id}
@@ -20,10 +19,9 @@ export default function App() {
             universo={personagem.universo}
           />
           ))}
-        </ScrollView>
-      </View>
       <StatusBar style="auto" />
     </View>
+    </ScrollView>
   );
 }
 
