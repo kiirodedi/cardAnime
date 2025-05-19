@@ -1,4 +1,9 @@
 [
+
+    {
+
+    },
+
     {
         "id": 1,
         "imagem": "https://pbs.twimg.com/media/EtmBQqGXUAE5hZp.jpg",
@@ -18,5 +23,202 @@
         "imagem": "https://i.pinimg.com/736x/47/7c/79/477c792186930dd428bf21602dccc2da.jpg",
         "nome": "Edward Elric",
         "universo": "Fullmetal Alchemist"
+    },
+
+    {
+        "id": 4,
+        "imagem": "https://i.redd.it/mitsuri-kanroji-kny-icons-v0-vmwzvk8j36ce1.jpg?width=736&format=pjpg&auto=webp&s=e29b98b644a916410d3cc36747611be7f6c0d4fc",
+        "nome": "Mitsuri Kanroji",
+        "universo": "Demon Slayer"
+    },
+
+    {
+        "id": 5,
+        "imagem": "https://i.pinimg.com/736x/1c/a0/db/1ca0db4babe19b825ee0ea4cd55be2ee.jpg",
+        "nome": "Esdeath",
+        "universo": "Akame Ga Kill!!"
+    },
+
+    {
+        "id": 4,
+        "imagem": "https://i.pinimg.com/736x/d1/92/13/d192130045254e08100b8f68e2df7bfd.jpg",
+        "nome": "Itachi Uchiha",
+        "universo": "Naruto"
+    },
+
+    {
+        "id": 5,
+        "imagem": "https://i.pinimg.com/736x/c8/90/d9/c890d92e0277a6a882a86642966bd556.jpg",
+        "nome": "Eren Yeager",
+        "universo": "Attack On Titan"
+    },
+
+    {
+        "id": 6,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkv7luXTa0IQrnmRGkzdryxgEBGKjSvcp_ZA&s.jpg",
+        "nome": "L",
+        "universo": "Death Note"
+    },
+
+    {
+        "id": 7,
+        "imagem": "https://miro.medium.com/v2/resize:fit:1400/1*Q5g4QK6i-v-TrbRBd6XYSg.png",
+        "nome": "Calcifer",
+        "universo": "Castelo Animado"
+    },
+
+    {
+        "id": 8,
+        "imagem": "https://pbs.twimg.com/media/FxewuFnWcAEb6tZ.jpg",
+        "nome": "Marin Kitagawa",
+        "universo": "My Dress-Up Darling"
+    },
+
+    {
+        "id": 9,
+        "imagem": "https://i.pinimg.com/564x/19/a7/ca/19a7ca868748011298016dd44d7929bd.jpg",
+        "nome": "Rengoku Kyōjuro",
+        "universo": "Demon Slayer"
+    },
+
+    {
+        "id": 10,
+        "imagem": "https://i.pinimg.com/736x/c9/f7/0c/c9f70c083aa9252ede542be7e17983b0.jpg",
+        "nome": "Akame",
+        "universo": "Akame Ga Kill!!"
+    },
+
+    {
+        "id": 11,
+        "imagem": "https://i.pinimg.com/736x/44/a1/7f/44a17fb5692104abc33e8591a2065830.jpg",
+        "nome": "Mikasa Ackerman",
+        "universo": "Attack On Titan"
+    },
+
+    {
+        "id": 12,
+        "imagem": "https://media.tenor.com/CYirfd5u7owAAAAM/jjk.png",
+        "nome": "Sukuna Ryomen",
+        "universo": "Jujutsu Kaisen"
+    },
+
+    {
+        "id": 13,
+        "imagem": "https://i.pinimg.com/736x/42/e2/64/42e264cd401df88876f6e9f30a263134.jpg",
+        "nome": "Tohru",
+        "universo": "Miss Kobayashi's Dragon Maid"
+    },
+
+    
+    {
+        "id": 14,
+        "imagem": "https://pbs.twimg.com/media/FJvxwcaWQAIysoC.jpg",
+        "nome": "Roronoa Zoro",
+        "universo": "One Piece"
+    },
+
+    {
+        "id": 15,
+        "imagem": "https://i.quotev.com/7lvxqk4litaq.jpg",
+        "nome": "Naruto Uzumaki",
+        "universo": "Naruto"
+    },
+
+    {
+        "id": 16,
+        "imagem": "https://64.media.tumblr.com/18c8188d20cd645178c0bdcf92bb691b/4ad06305d0f89385-dd/s540x810/68f4732663fd51c0c761d6b273a4a92fa79860bd.jpg",
+        "nome": "Tomioka Giyuu",
+        "universo": "Demon Slayer"
+    },
+
+    {
+        "id": 3,
+        "imagem": "https://i.pinimg.com/736x/47/7c/79/477c792186930dd428bf21602dccc2da.jpg",
+        "nome": "Edward Elric",
+        "universo": "Fullmetal Alchemist"
+    },
+
+    {
+        "id": 4,
+        "imagem": "https://i.redd.it/mitsuri-kanroji-kny-icons-v0-vmwzvk8j36ce1.jpg?width=736&format=pjpg&auto=webp&s=e29b98b644a916410d3cc36747611be7f6c0d4fc",
+        "nome": "Mitsuri Kanroji",
+        "universo": "Demon Slayer"
+    },
+
+    {
+        "id": 5,
+        "imagem": "https://i.pinimg.com/736x/1c/a0/db/1ca0db4babe19b825ee0ea4cd55be2ee.jpg",
+        "nome": "Esdeath",
+        "universo": "Akame Ga Kill!!"
+    },
+
+    {
+        "id": 4,
+        "imagem": "https://i.pinimg.com/736x/d1/92/13/d192130045254e08100b8f68e2df7bfd.jpg",
+        "nome": "Itachi Uchiha",
+        "universo": "Naruto"
+    },
+
+    {
+        "id": 5,
+        "imagem": "https://i.pinimg.com/736x/c8/90/d9/c890d92e0277a6a882a86642966bd556.jpg",
+        "nome": "Eren Yeager",
+        "universo": "Attack On Titan"
+    },
+
+    {
+        "id": 6,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkv7luXTa0IQrnmRGkzdryxgEBGKjSvcp_ZA&s.jpg",
+        "nome": "L",
+        "universo": "Death Note"
+    },
+
+    {
+        "id": 7,
+        "imagem": "https://miro.medium.com/v2/resize:fit:1400/1*Q5g4QK6i-v-TrbRBd6XYSg.png",
+        "nome": "Calcifer",
+        "universo": "Castelo Animado"
+    },
+
+    {
+        "id": 8,
+        "imagem": "https://pbs.twimg.com/media/FxewuFnWcAEb6tZ.jpg",
+        "nome": "Marin Kitagawa",
+        "universo": "My Dress-Up Darling"
+    },
+
+    {
+        "id": 9,
+        "imagem": "https://i.pinimg.com/564x/19/a7/ca/19a7ca868748011298016dd44d7929bd.jpg",
+        "nome": "Rengoku Kyōjuro",
+        "universo": "Demon Slayer"
+    },
+
+    {
+        "id": 10,
+        "imagem": "https://i.pinimg.com/736x/c9/f7/0c/c9f70c083aa9252ede542be7e17983b0.jpg",
+        "nome": "Akame",
+        "universo": "Akame Ga Kill!!"
+    },
+
+    {
+        "id": 11,
+        "imagem": "https://i.pinimg.com/736x/44/a1/7f/44a17fb5692104abc33e8591a2065830.jpg",
+        "nome": "Mikasa Ackerman",
+        "universo": "Attack On Titan"
+    },
+
+    {
+        "id": 12,
+        "imagem": "https://media.tenor.com/CYirfd5u7owAAAAM/jjk.png",
+        "nome": "Sukuna Ryomen",
+        "universo": "Jujutsu Kaisen"
+    },
+
+    {
+        "id": 13,
+        "imagem": "https://i.pinimg.com/736x/42/e2/64/42e264cd401df88876f6e9f30a263134.jpg",
+        "nome": "Tohru",
+        "universo": "Miss Kobayashi's Dragon Maid"
     }
 ]

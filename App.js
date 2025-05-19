@@ -7,10 +7,12 @@ import personagens from "./data/personagens.json"
 
 export default function App() {
   return (
-    <ScrollView contentContainerStyle={styles.scrollContent}>
+    
     <View style={styles.container}>
         <Text style={styles.titulo}>Personagens de anime</Text>
-        {personagens.map((personagem) => (
+        <ScrollView contentContainerStyle={styles.scrollContent}>
+          <View style={styles.row}>
+          {personagens.map((personagem) => (
           <CardAnime
             key={personagem.id}
             id={personagem.id}
@@ -19,9 +21,11 @@ export default function App() {
             universo={personagem.universo}
           />
           ))}
+          </View>
+          </ScrollView>
       <StatusBar style="auto" />
     </View>
-    </ScrollView>
+    
   );
 }
 
@@ -46,6 +50,12 @@ const styles = StyleSheet.create({
 
   scrollContent: {
   alignItems: 'center',
-  paddingBottom: 30,
+  paddingRigth: -100,
 },
+
+row:{
+  flexDirection: 'row',
+  flexWrap: 'wrap', 
+  justifyContent: 'center',
+}
 });

@@ -7,24 +7,16 @@ export function CardAnime({
     universo = "Não informado"
 }) {
     return (
-        <View style={estilo.container}>
             <View style={estilo.cardPersonagem}>
                 <Image style={estilo.img} source={{ uri: imagem }}></Image>
                 <Text style={estilo.nomePersonagem}>{nome}</Text>
                 <Text style={estilo.universo}>{universo}</Text>
             </View>
-        </View>
     )
 }
 
 const estilo = StyleSheet.create({
 
-    container: {
-        flex: 1,
-        backgroundColor: "#303030",
-        alignItems: "center",
-        justifyContent: "center",
-    },
     img: {
     width: 200,
     height: 200,
