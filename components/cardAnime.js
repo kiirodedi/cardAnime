@@ -28,7 +28,7 @@ const estilo = StyleSheet.create({
     backgroundColor: "#1d1d1d",
     color: "#fff",
     padding: 10,
-    marginBottom: 30,
+    margin: 5,
     borderRadius: 10,
   },
 
